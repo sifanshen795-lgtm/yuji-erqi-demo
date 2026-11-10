@@ -1,0 +1,1 @@
+import{_ as t}from"./index-17H2T6o5.js";import{v as a,a0 as r,a2 as n,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const _={};function m(p,o){const e=a("Page");return r(),n(e,null,{default:s(()=>[...o[0]||(o[0]=[c("库存看板",-1)])]),_:1})}const u=t(_,[["render",m]]);export{u as default};

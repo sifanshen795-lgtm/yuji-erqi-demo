@@ -1,0 +1,1 @@
+import{j as t,v as n,a0 as o,a2 as a}from"./vue-fCD1IuHL.js";import"./lang-C1T9j7xW.js";const i=t({__name:"SparePartsInventoryStatistics",setup(r){return(s,c)=>{const e=n("ParentMenuView");return o(),a(e)}}});export{i as default};

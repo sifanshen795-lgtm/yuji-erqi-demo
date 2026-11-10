@@ -1,0 +1,1 @@
+import{r as e}from"./vue-fCD1IuHL.js";function s(t){const a=e(1),o=e(16),r=e(0);function u(n){a.value=n,t?.()}function i(n){o.value=n,t?.()}return{currentPage:a,pageSize:o,total:r,handleCurrentChange:u,handleSizeChange:i}}export{s as u};

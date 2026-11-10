@@ -1,0 +1,1 @@
+import{j as n,v as t,a0 as o,a2 as a}from"./vue-fCD1IuHL.js";import"./lang-C1T9j7xW.js";const m=n({__name:"RepairEquipmentAcceptance",setup(r){return(c,p)=>{const e=t("ParentMenuView");return o(),a(e)}}});export{m as default};

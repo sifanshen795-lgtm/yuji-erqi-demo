@@ -1,0 +1,4 @@
+import{ah as c,$ as i}from"./index-17H2T6o5.js";async function l(t,o=!1){if(o&&t.length>1){const n=`当前选中以下报检单，是否确认关闭取样任务？
+
+${t.map(a=>a.qualityOrderInspectionNo).filter(Boolean).join(`
+`)}`;try{return await i.confirm(n,"提示",{confirmButtonText:"确定",cancelButtonText:"取消",type:"warning"}),!0}catch{return!1}}else{const e=t[0];if(!e)return!1;const n=e.willSampleCount||0,a=e.sampledCount||0,r=`当前报检单应取样件数为'${n}'，已取样件数为'${a}'，是否确认关闭取样任务`;try{return await i.confirm(r,"提示",{confirmButtonText:"确定",cancelButtonText:"取消",type:"warning"}),!0}catch{return!1}}}async function u(t,o=!1,e,n){if(await l(t,o))try{const r=t.map(s=>s.id).filter(s=>s!==void 0);n&&await n({ids:r}),c.success(o?"批量结束取样成功":"结束取样成功"),e?.()}catch{c.error(o?"批量结束取样失败":"结束取样失败")}}function m(t,o,e){const n=t();if(n.length===0){c.warning("请选择要结束取样的数据");return}u(n,!0,o,e)}export{m as c,u as h};

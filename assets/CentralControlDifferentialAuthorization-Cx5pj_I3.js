@@ -1,0 +1,1 @@
+import{_ as e}from"./index-17H2T6o5.js";import{v as r,a0 as a,a2 as n,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const i={};function f(l,t){const o=r("Page");return a(),n(o,null,{default:s(()=>[...t[0]||(t[0]=[c("中控判异授权",-1)])]),_:1})}const d=e(i,[["render",f]]);export{d as default};

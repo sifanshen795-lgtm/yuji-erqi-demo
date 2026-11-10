@@ -1,0 +1,1 @@
+function e(a,n){const o=JSON.parse(a.formJson||"[]"),f=JSON.parse(a.formOptions||"{}"),i=JSON.parse(n.formJson||"[]"),s=new Map;return Array.isArray(i)&&i.forEach(r=>{r.field&&r.value!==void 0&&s.set(r.field,r.value)}),Array.isArray(o)&&o.forEach(r=>{r.field&&s.has(r.field)&&(r.value=s.get(r.field))}),{...n,formOptions:JSON.stringify(f),formJson:JSON.stringify(o)}}export{e as m};

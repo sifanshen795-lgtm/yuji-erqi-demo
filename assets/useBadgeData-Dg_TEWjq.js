@@ -1,0 +1,1 @@
+import{k as c}from"./index-17H2T6o5.js";import{c as u}from"./vue-fCD1IuHL.js";function g(o){const n=c();return{badgeData:u(()=>{const e={};for(const[r,t]of n.menuInfo){const a=r.match(new RegExp(`^data-entry-category:${o}:(.+)$`));if(a&&typeof t=="number"){const s=a[1];e[s]=t}}return e})}}export{g as u};

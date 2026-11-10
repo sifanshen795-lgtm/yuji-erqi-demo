@@ -1,0 +1,1 @@
+import{j as n,v as o,a0 as a,a2 as t}from"./vue-fCD1IuHL.js";import"./lang-C1T9j7xW.js";const m=n({__name:"SparePartsWarehouse",setup(r){return(s,p)=>{const e=o("ParentMenuView");return a(),t(e)}}});export{m as default};

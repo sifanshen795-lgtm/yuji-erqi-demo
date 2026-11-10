@@ -1,0 +1,1 @@
+import{_ as o}from"./index-17H2T6o5.js";import{v as a,a0 as n,a2 as r,a9 as c,ac as s}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const m={};function p(_,e){const t=a("Page");return n(),r(t,null,{default:c(()=>[...e[0]||(e[0]=[s("仪器验收",-1)])]),_:1})}const d=o(m,[["render",p]]);export{d as default};

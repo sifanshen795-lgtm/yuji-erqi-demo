@@ -1,0 +1,1 @@
+import{_ as o}from"./index-17H2T6o5.js";import{v as n,a0 as r,a2 as a,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const m={};function _(p,t){const e=n("Page");return r(),a(e,null,{default:s(()=>[...t[0]||(t[0]=[c("仪器停用",-1)])]),_:1})}const d=o(m,[["render",_]]);export{d as default};

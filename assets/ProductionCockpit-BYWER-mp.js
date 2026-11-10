@@ -1,0 +1,1 @@
+import{_ as e}from"./index-17H2T6o5.js";import{v as r,a0 as a,a2 as n,a9 as c,ac as s}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const p={};function _(i,o){const t=r("Page");return a(),n(t,null,{default:c(()=>[...o[0]||(o[0]=[s("生产驾驶舱",-1)])]),_:1})}const u=e(p,[["render",_]]);export{u as default};

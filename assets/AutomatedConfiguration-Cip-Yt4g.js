@@ -1,0 +1,1 @@
+import{_ as e}from"./index-17H2T6o5.js";import{v as a,a0 as r,a2 as n,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const m={};function _(f,o){const t=a("Page");return r(),n(t,null,{default:s(()=>[...o[0]||(o[0]=[c("自动化配置",-1)])]),_:1})}const d=e(m,[["render",_]]);export{d as default};

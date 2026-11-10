@@ -1,0 +1,1 @@
+import{ez as i,eC as t,eT as r}from"./index-17H2T6o5.js";var n=i.isFinite;function b(e){return typeof e=="number"&&n(e)}var s="[object Number]";function o(e){return typeof e=="number"||t(e)&&r(e)==s}function m(e){return o(e)&&e!=+e}export{m as a,o as b,b as i};

@@ -1,0 +1,1 @@
+import{j as n,v as o,a0 as r,a2 as t}from"./vue-fCD1IuHL.js";import"./lang-C1T9j7xW.js";const m=n({__name:"RepairWorkOrder",setup(a){return(p,s)=>{const e=o("ParentMenuView");return r(),t(e)}}});export{m as default};

@@ -1,0 +1,1 @@
+import{j as n,v as t,a0 as a,a2 as o}from"./vue-fCD1IuHL.js";import"./lang-C1T9j7xW.js";const i=n({__name:"EquipmentPreventiveMaintenancePlan",setup(r){return(c,p)=>{const e=t("ParentMenuView");return a(),o(e)}}});export{i as default};

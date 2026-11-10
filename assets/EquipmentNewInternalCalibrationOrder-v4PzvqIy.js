@@ -1,0 +1,1 @@
+import{j as n,v as t,a0 as o,a2 as a}from"./vue-fCD1IuHL.js";import"./lang-C1T9j7xW.js";const i=n({__name:"EquipmentNewInternalCalibrationOrder",setup(r){return(p,s)=>{const e=t("ParentMenuView");return o(),a(e)}}});export{i as default};
