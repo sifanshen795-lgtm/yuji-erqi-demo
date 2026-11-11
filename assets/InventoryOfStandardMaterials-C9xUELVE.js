@@ -1,0 +1,1 @@
+import{_ as o}from"./index-B77vegmP.js";import{v as a,a0 as r,a2 as n,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const _={};function f(m,t){const e=a("Page");return r(),n(e,null,{default:s(()=>[...t[0]||(t[0]=[c("标准物质盘点",-1)])]),_:1})}const u=o(_,[["render",f]]);export{u as default};

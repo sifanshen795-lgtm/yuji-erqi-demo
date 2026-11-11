@@ -1,1 +1,0 @@
-import{_ as t}from"./index-17H2T6o5.js";import{v as r,a0 as a,a2 as n,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const _={};function m(p,e){const o=r("Page");return a(),n(o,null,{default:s(()=>[...e[0]||(e[0]=[c("审核记录",-1)])]),_:1})}const u=t(_,[["render",m]]);export{u as default};

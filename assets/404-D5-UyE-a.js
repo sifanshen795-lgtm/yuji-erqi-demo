@@ -1,0 +1,1 @@
+import{_ as o}from"./index-B77vegmP.js";import{v as t,a0 as a,a1 as c,a as r}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const s={},n={class:"page-404"};function _(m,p){const e=t("el-image");return a(),c("div",n,[r(e,{src:"/404.png"})])}const g=o(s,[["render",_]]);export{g as default};

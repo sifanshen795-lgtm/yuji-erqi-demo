@@ -6,7 +6,7 @@ window.__PRODUCTION____APP__CONF__={"VITE_GLOB_APP_NAME":"宇极","VITE_GLOB_API
         writable: false,
       });
       console.log(
-        "%c宇极 V1.0.0 构建时间：2026-11-10 16:37:28",
+        "%c宇极 V1.0.0 构建时间：2026-11-11 20:57:09",
         'color: #ffffff; background: #3c9cff; padding:5px;',
       );
     

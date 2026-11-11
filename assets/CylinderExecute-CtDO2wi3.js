@@ -1,0 +1,1 @@
+import{_ as e}from"./index-B77vegmP.js";import{a0 as r,a1 as t}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const o={};function c(n,a){return r(),t("div")}const f=e(o,[["render",c]]);export{f as default};

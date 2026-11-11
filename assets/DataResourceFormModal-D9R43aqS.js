@@ -1,1 +1,0 @@
-import{_ as o}from"./DataResourceFormModal.vue_vue_type_script_setup_true_lang-D3lBUv3b.js";import"./GenericFormModalXForm-PXxyE5yX.js";import"./index-17H2T6o5.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";import"./vue-fCD1IuHL.js";import"./index-ySOjxI9L.js";import"./index-p3Zy_kht.js";import"./XForm-BH003ISr.js";import"./file-DccO6sBt.js";export{o as default};

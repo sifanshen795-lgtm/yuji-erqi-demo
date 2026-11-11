@@ -1,1 +1,0 @@
-import{_ as o}from"./index-17H2T6o5.js";import{v as a,a0 as r,a2 as n,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const _={};function m(p,e){const t=a("Page");return r(),n(t,null,{default:s(()=>[...e[0]||(e[0]=[c("规则设置",-1)])]),_:1})}const d=o(_,[["render",m]]);export{d as default};

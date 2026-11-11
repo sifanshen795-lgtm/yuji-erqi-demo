@@ -1,0 +1,1 @@
+import"./index-B77vegmP.js";import{b as l}from"./utils-DzDQNc7n.js";function t(s){const e=s.map(i=>i.field);return{visibleFields:e,editableFields:e}}function n(s){const e=l(s,[]);return t(e)}export{t as a,n as g};

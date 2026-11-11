@@ -1,1 +1,0 @@
-import{az as n}from"./index-17H2T6o5.js";function i(e=!1){return({cellValue:r})=>{if(n(r))return e?new Error("请输入正整数"):!0;const t=Number(r);return Number.isInteger(t)&&t>0?!0:new Error("请输入正整数")}}function o(e=!1){return({cellValue:r})=>n(r)?e?new Error("请输入正数"):!0:Number(r)>0?!0:new Error("请输入正数")}export{i as a,o as g};

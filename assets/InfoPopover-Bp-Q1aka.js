@@ -1,0 +1,1 @@
+import{dl as c,dq as f,dr as l}from"./index-B77vegmP.js";import{h as e}from"./vue-fCD1IuHL.js";function i(o){const{content:r,placement:t="top",width:n}=o;return e(c,{placement:t,content:r,width:n},{reference:()=>e(l,()=>e(f))})}export{i as c};

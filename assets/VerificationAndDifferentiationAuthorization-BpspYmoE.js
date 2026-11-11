@@ -1,1 +1,0 @@
-import{_ as e}from"./index-17H2T6o5.js";import{v as a,a0 as n,a2 as r,a9 as i,ac as s}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const c={};function f(_,t){const o=a("Page");return n(),r(o,null,{default:i(()=>[...t[0]||(t[0]=[s("检验判异授权",-1)])]),_:1})}const u=e(c,[["render",f]]);export{u as default};

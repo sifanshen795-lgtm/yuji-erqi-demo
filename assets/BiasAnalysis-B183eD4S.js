@@ -1,1 +1,0 @@
-import{_ as t}from"./index-17H2T6o5.js";import{v as a,a0 as r,a2 as s,a9 as n,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const _={};function i(m,e){const o=a("Page");return r(),s(o,null,{default:n(()=>[...e[0]||(e[0]=[c("偏倚分析",-1)])]),_:1})}const u=t(_,[["render",i]]);export{u as default};

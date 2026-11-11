@@ -1,1 +1,0 @@
-import{_ as a}from"./index-17H2T6o5.js";import{v as r,a0 as s,a2 as n,a9 as i,a3 as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const m={};function l(t,e){const o=r("Page");return s(),n(o,{title:t.$t("系统版本")},{default:i(()=>[...e[0]||(e[0]=[c("div",null,"系统版本",-1)])]),_:1},8,["title"])}const u=a(m,[["render",l]]);export{u as default};

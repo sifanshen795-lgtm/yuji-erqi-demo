@@ -1,0 +1,1 @@
+import{_ as t}from"./index-B77vegmP.js";import{v as a,a0 as r,a2 as s,a9 as n,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const m={};function _(p,o){const e=a("Page");return r(),s(e,null,{default:n(()=>[...o[0]||(o[0]=[c("耗材看板",-1)])]),_:1})}const u=t(m,[["render",_]]);export{u as default};

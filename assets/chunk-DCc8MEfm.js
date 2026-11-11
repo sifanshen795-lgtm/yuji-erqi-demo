@@ -1,1 +1,0 @@
-import{bc as h,bd as i,be as u}from"./index-17H2T6o5.js";var f=Math.ceil,o=Math.max;function x(t,e,a){(a?u(t,e,a):e===void 0)?e=1:e=o(h(e),0);var n=t==null?0:t.length;if(!n||e<1)return[];for(var l=0,c=0,r=Array(f(n/e));l<n;)r[c++]=i(t,l,l+=e);return r}export{x as c};

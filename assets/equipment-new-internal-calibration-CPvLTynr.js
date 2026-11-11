@@ -1,1 +1,0 @@
-import{at as e,aj as r}from"./index-17H2T6o5.js";function o(t,n={}){return r("/equipment/new/internal/calibration/record/list",{params:t},n)}function p(t,n={}){return e("/equipment/new/internal/calibration/record/export",t,n)}export{o as a,p as e};

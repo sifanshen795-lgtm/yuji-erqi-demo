@@ -1,1 +1,0 @@
-import{_ as n}from"./index-17H2T6o5.js";import{v as t,a0 as o,a2 as r}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const a={};function c(s,_){const e=t("ParentMenuView");return o(),r(e)}const l=n(a,[["render",c]]);export{l as default};

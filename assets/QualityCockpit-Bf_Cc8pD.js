@@ -1,0 +1,1 @@
+import{_ as e}from"./index-B77vegmP.js";import{v as a,a0 as r,a2 as n,a9 as s,ac as c}from"./vue-fCD1IuHL.js";import"./jspdf-vYVYLNFZ.js";import"./lang-C1T9j7xW.js";const p={};function _(i,t){const o=a("Page");return r(),n(o,null,{default:s(()=>[...t[0]||(t[0]=[c("质量驾驶舱",-1)])]),_:1})}const d=e(p,[["render",_]]);export{d as default};
